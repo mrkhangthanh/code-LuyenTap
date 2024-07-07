@@ -1,0 +1,59 @@
+.VietSource{
+    color:red;
+}
+body {
+    background-color: #FFD2FF;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    color: #4CAF50;
+}
+.VanBan1 {
+    text-indent: 50px;
+    letter-spacing: 3px;
+}
+.Me {
+    color: #FF3399;
+    font-weight: bold;
+    text-align: center;
+}
+.NenTrang {
+    background-color: #fff;
+    width: 100%;
+}
+.LuiO {
+    text-indent: 5px;
+
+}
+.BaiTho1 {
+    background-color: bisque;
+    line-height: 3px;
+    text-align: center;
+    padding-top: 1px;
+}
+.BaoHieu {
+    text-align: center;
+    color:red;
+    background-color: bisque ;
+    padding-top: 3px;
+    padding-bottom:1px;
+}
+.BaiTho3 {
+    text-align: center;
+    background-color: bisque;
+    color:#4CAF50;
+    padding: 20px;
+}
+.myfirst {
+    padding: 20px;
+    background-color: rgb(34, 165, 165);
+}
+.myfirst .myfirst1 {
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+}
+.myfirst .myfirst2 {
+    font-size: 18px;
+}

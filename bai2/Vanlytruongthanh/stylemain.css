@@ -1,0 +1,18 @@
+body{
+    background-color: #A06D21;
+}
+.Vanly {
+    background-size: 300px;
+    background-image: url("https://lh5.googleusercontent.com/proxy/lkHFEZpbxvsJAEL8QAyuD3GcFY-eCkoC_szZIPFFTD26QcSRVmnnQALXKxdd_w8-NDCq8vnWevmUXl3j3SEJ2a0YAo-wuSANfCM1AZwITi5VYZc63QHcvPr-BKRFProlSWUGs7LZk35yOCFeLNaOHBSgD411cJo1QK6LrnzCCDtJJjNq7lcnnQgEIxS1YYq8fQngRyve04wkN__1rKzs8v554DrjzY6kehHu72EosA86FpGvcmJilyhLzYGuX6j-JDEEseIzG9X-0ZzGvKbhmUCJSiEBFbk3waLPWy6ULr_nVc5A2h3R-rcyjJzkN8kp-iIwn3gxKIVoaxSk_eR9mIeGIQ");
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-color: #A06D21; 
+    }
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #FFCC00;
+}

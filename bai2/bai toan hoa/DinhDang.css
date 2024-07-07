@@ -1,0 +1,16 @@
+.DinhDang1 {
+    color:rgb(6, 131, 89);
+}
+.VongLap {
+    background-color: rgb(228, 230, 232);
+    text-align: center;
+    color: #0000CC;
+
+}
+.VongLap .Tong {
+    text-indent: 20%;
+}
+.GachChan {
+    text-decoration: underline;
+    font-weight: bold;
+}
